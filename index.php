@@ -5,10 +5,10 @@
 <body>
 <header>
 	<div class="logo">
-		<img src="img/Logo.png" class="logo.png">
-		<span class="logo-tittle">Класс!</span>
+		<img src="img/Logo.png" class="logo.png"><!-- логотип -->
+		<span class="logo-tittle">Класс!</span><!-- название сайта -->
 	</div>
-	<div class="hor-menu">
+	<div class="hor-menu"><!-- меню -->
 		<ul>
 			<li><a href="">Главная</a></li>
 			<li><a href="">Блог</a></li>
@@ -21,12 +21,12 @@
 <div class="wrapper">
 	<div class="content">
 		<div class="block_new">
-			<img src="img/olimpicfunnygames.jpg" class="photo">
-			<span class="title"><a href="">Необычные виды спорта на Олимпийских Играх</a></span>
+			<img src="img/olimpicfunnygames.jpg" class="photo"><!-- картинка -->
+			<span class="title"><a href="">Необычные виды спорта на Олимпийских Играх</a></span><!-- заголовок статьи -->
 			<p><span>В апреле 1896 года в Афинах прошли первые Олимпийские игры современности. 
 Таким образом, в этом году мы отмечаем 120-летний юбилей со дня возрождения 
 олимпийского движения. За это время в программу соревнований входили самые 
-необычные дисциплины.</span></p>
+необычные дисциплины.</span></p><!-- текст статьи -->
 		</div>
 		<div class="block_2">
 			 <img src="img/limaargentinad.jpg" class="photo">
